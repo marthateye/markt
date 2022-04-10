@@ -50,7 +50,6 @@ Some new concepts I had never used in Python but I learnt to help me take on thi
 
 [https://flask.palletsprojects.com/en/2.0.x/async-await/](https://flask.palletsprojects.com/en/2.0.x/async-await/)
 
-I look forward to the next steps in this application process. All the best.
 
 ## Acknowledgement
 
